@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-nav {
+    border: 1px solid grey;
+    padding: 10px 20px;
+    width: fit-content;
+    margin: 30px;
+}
+
+.menu li {
+    display: inline;
+    margin: 6px;
+}
+
